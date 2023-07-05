@@ -1,4 +1,4 @@
-# 이미지 업로드를 테스트(1.02)
+# 이미지 업로드를 테스트(1.03)
 
 ---
 
@@ -30,11 +30,13 @@
 > 
 > \<img\>
 
-![](C:\Users\cyady\Desktop\project\github_blog\cyady.github.io\images\2023-07-05-image_test\bedbd0dffd2ea6623bc1e5373ee765c512ac509b.png)
+상대경로
+
+![](../images/2023-07-05-image_test/bedbd0dffd2ea6623bc1e5373ee765c512ac509b.png)
 
 copy img
 
-![](C:\Users\cyady\Desktop\project\github_blog\cyady.github.io\images\2023-07-05-image_test\bedbd0dffd2ea6623bc1e5373ee765c512ac509b.png)
+![](C:\Users\cyady\Desktop\project\github_blog\cyady.github.io\images\2023-07-05-image_test\bedbd0dffd2ea6623bc1e5373ee765c512ac509b.png)~~~~
 
 상대경로
 
