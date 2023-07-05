@@ -29,7 +29,5 @@
 > \!\[이미지 이름\]\(
 > 
 > \<img\>
-> 
-> <img title="" src="file:///C:/Users/cyady/Desktop/project/github_blog/cyady.github.io/images/2023-07-05-image_test/659ff03dbb04b27d7ee62304704a322b5293c480.png" alt="" width="184">   <img title="" src="file:///C:/Users/cyady/Desktop/project/github_blog/cyady.github.io/images/2023-07-05-image_test/4075c3c200059b9c66de4d156aa829b6120be381.png" alt="" width="184">
 
 ![asset](C:\Users\cyady\Desktop\project\github_blog\cyady.github.io\images\2023-07-05-image_test\bedbd0dffd2ea6623bc1e5373ee765c512ac509b.png)
